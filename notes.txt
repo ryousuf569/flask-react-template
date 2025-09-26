@@ -1,3 +1,10 @@
 When initializing your app in the terminal
 
     npm create vite@latest app-name -- --template react
+
+
+pip install Flask
+
+pip install Flask-SQLALchemy'
+
+pip install flask-cors
